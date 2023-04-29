@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @vladivostok1703
+- 👀 I’m interested in learning different types of programming language. Right now I'm student at a good university from Romania. I am a person open to everything new, persistent and creative. I like to work alone, but also in collaboration with other people.
+- 🌱 I’m currently learning C++ at college, but I have knowledge in Python, HTML, CSS and basic stuff in PHP, SQL and JavaScript.
+- 📫 How to reach me:
+-   LinkedIn: https://www.linkedin.com/in/vlad-p%C4%83unescu-b4b672260
+-   Instagram: https://instagram.com/vladdpaunescu?igshid=YmMyMTA2M2Y=
+-   E-mail: vlad.paunescu.96@gmail.com
